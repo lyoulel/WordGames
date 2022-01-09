@@ -6,7 +6,7 @@ namespace WordGames
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("臭狗霏霏");
         }
     }
 }
